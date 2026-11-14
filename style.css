@@ -58,7 +58,7 @@ body::before {
    panel (it stands 39 to 55% of the way down the picture, which fills the screen's height). */
 .hero {
   max-width: 760px;
-  min-height: 58vh;
+  min-height: 63vh;
   margin: 0 auto;
   padding: 56px 16px 28px;
   color: #fff;
